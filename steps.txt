@@ -1,3 +1,0 @@
-MEAN STACK APP
-
-1. Build the file/folder structure
