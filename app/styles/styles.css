@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+table, th, td {
+    margin: auto;
+    border: 0.1em solid black;
+    width: 50%;
+    margin-top: 1em;
+}
